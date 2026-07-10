@@ -12,19 +12,28 @@ The goal is to understand how companies perform based on historical market data 
 
 ---
 
-# Tools Used
+# Stock Market Analysis
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* yfinance
+## Overview
 
-Install required libraries:
+...
 
-```bash
-pip install pandas numpy matplotlib seaborn yfinance
+---
+
+# Project Structure
+
+```text
+stock-market-analysis/
+│
+├── stock_analysis.ipynb
+├── README.md
+├── requirements.txt
+│
+└── IMAGES/
+    ├── risk_comparison.png
+    ├── price_movement.png
+    └── correlation_heatmap.png
+
 ```
 
 ---
@@ -193,23 +202,6 @@ From this analysis:
 * Higher returns can come with higher volatility.
 * Historical data can help compare company performance.
 * Data-driven analysis is useful for understanding market behavior.
-
----
-
-# Project Structure
-
-```text
-stock-screener/
-│
-├── main.ipynb
-├── README.md
-├── requirements.txt
-│
-└── IMAGES/
-    ├── risk_comparison.png
-    ├── price_movement.png
-    └── correlation_heatmap.png
-```
 
 ---
 
