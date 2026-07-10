@@ -1,1 +1,1 @@
-# stock-screener
+# stock-analysis
