@@ -199,9 +199,9 @@ From this analysis:
 # Project Structure
 
 ```text
-stock-market-analysis/
+stock-screener/
 │
-├── stock_analysis.ipynb
+├── main.ipynb
 ├── README.md
 ├── requirements.txt
 │
