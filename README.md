@@ -240,3 +240,7 @@ This project demonstrates how Python can be used for financial data analysis.
 The workflow includes collecting real market data, cleaning datasets, calculating performance metrics, measuring risk, creating visualizations, and building a simple stock ranking model.
 
 It introduces the fundamentals of quantitative investing and data-driven decision making.
+
+
+# Author
+Rajshree Verma
