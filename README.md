@@ -12,14 +12,6 @@ The goal is to understand how companies perform based on historical market data 
 
 ---
 
-# Stock Market Analysis
-
-## Overview
-
-...
-
----
-
 # Project Structure
 
 ```text
