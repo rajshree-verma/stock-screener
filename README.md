@@ -1,5 +1,8 @@
 # stock-screener
 
+A Python-based stock analysis project that explores historical market data, identifies trends, and visualizes price movements. It uses Pandas, NumPy, Yfinance and visualization libraries to analyze performance, returns, and volatility.
+
+
 # Stock Market Analysis
 
 ## Overview
